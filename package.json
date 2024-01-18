@@ -1,0 +1,28 @@
+{
+  "name": "simple-unit-test-javascript",
+  "version": "1.0.0",
+  "description": "this is simple unit test using javascript",
+  "main": "buggy-function.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joyline/simple-unit-test-javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "wijoyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joyline/simple-unit-test-javascript/issues"
+  },
+  "homepage": "https://github.com/joyline/simple-unit-test-javascript#readme",
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
